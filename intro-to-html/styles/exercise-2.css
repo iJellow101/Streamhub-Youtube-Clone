@@ -1,0 +1,87 @@
+.uber-button {
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 120px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.amazon-button {
+  background-color: rgb(255, 215, 20);
+  color: black;
+  border: none;
+  height: 40px;
+  width: 180px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.github-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 88px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.bootstrap-button1 {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  height: 35px;
+  width: 100px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 12px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.bootstrap-button2 {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  height: 35px;
+  width: 100px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: bold;
+  border-width: 1px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.linkedin-button1 {
+  margin-top: 8px;
+  background-color: rgb(10, 102, 194);
+  color: white;
+  height: 40px;
+  width: 210px;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 13px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.linkedin-button2 {
+  margin-top: 8px;
+  background-color: white;
+  color: rgb(10, 102, 194);
+  height: 40px;
+  width: 75px;
+  border-color: rgb(10, 102, 194);
+  border-radius: 20px;
+  border-width: 1px;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+}

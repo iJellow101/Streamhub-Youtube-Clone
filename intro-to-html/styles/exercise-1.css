@@ -1,0 +1,44 @@
+.amazon-link {
+  color: rgb(0, 113, 133);
+}
+
+.nike-text {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.price-text {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.delivery-text {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.cart-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: none;
+  height: 35px;
+  width: 125px;
+  border-radius: 17px;
+  font-weight: bold;
+  font-size: 13px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.buy-button {
+  background-color: rgb(255, 164, 28);
+  color: black;
+  border: none;
+  height: 35px;
+  width: 125px;
+  border-radius: 17px;
+  font-weight: bold;
+  font-size: 13px;
+  cursor: pointer;
+}

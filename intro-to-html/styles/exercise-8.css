@@ -1,0 +1,126 @@
+.name-text {
+    width: 125px;
+    display: block;
+    margin-bottom: 6px;
+}
+
+.email-text {
+    width: 125px;
+    display: block;
+}
+
+.support-message {
+    align-items: center;
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.google-image {
+    display: block;
+    width: 200px;
+    object-fit: contain;
+    margin-left: 300px;
+    margin-bottom: 10px;
+}
+.google-search {
+    margin-left: 175px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 400px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    display: block;
+    margin-bottom: 10px;
+}
+
+.first-name,
+.last-name {
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 100px;
+    border-radius: 6px;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+.email-box {
+    display: block;
+    width: 222px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-color: rgb(200, 200, 200);
+    border-radius: 6px;
+    font-size: 13px;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 8px;
+}
+.sign-up-button {
+    display: block;
+    background-color: rgb(46, 116, 207);
+    color: white;
+    font-weight: bold;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    padding-left: 94px;
+    padding-right: 94px;
+    border: none;
+    border-radius: 8px;
+}
+.sign-up-button:hover {
+    opacity: 0.85;
+}
+.sign-up-button:active {
+    opacity: 0.6;
+}
+
+.request-text {
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 18px;
+    font-family: Arial;
+}
+.pickup-text,
+.destination-text {
+    display: block;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    margin-bottom: 6px;
+    width: 225px;
+    background-color: rgb(240, 240, 240);
+    border: none;
+    font-size: 10px;
+}
+.request-button {
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-top: 15px;
+}
+.schedule-button {
+    margin-top: 15px;
+    background-color: rgb(240, 240, 240);
+    border: none;
+    font-size: 10px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-left: 10px;
+}

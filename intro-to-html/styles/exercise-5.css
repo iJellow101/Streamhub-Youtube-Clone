@@ -1,0 +1,91 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.tah-font {
+  font-weight: bold;
+  font-family: Tahoma;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+.deals-font {
+  width: 250px;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.deals-font-sales {
+  color: red;
+  font-size: 13px;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.header1-font {
+  font-weight: bold;
+  font-size: 10px;
+  font-family: Verdana;
+  width: 130px;
+  margin-bottom: 10px;
+}
+.begToPro {
+  color: rgb(96, 96, 96);
+  font-size: 9px;
+  font-weight: normal;
+}
+.course-description {
+  font-family: Verdana;
+  font-size: 10px;
+  width: 180px;
+  line-height: 12px;
+  margin-bottom: 10px;
+}
+.get-started {
+  background-color: green;
+  color: white;
+  border: none;
+  font-family: Verdana;
+  font-size: 7px;
+  border-radius: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8;
+  padding-right: 8px;
+  cursor: pointer;
+  transition: box-shadow 0.15s,
+  opacity 0.15s;
+  margin-bottom: 20px;
+}
+.get-started:hover {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+}
+.get-started:active {
+  opacity: 0.7;
+}
+
+.shop-question {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.apple-help {
+  font-size: 8px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.learn-more-link {
+  color: rgb(58, 108, 199);
+  font-size: 7.5px;
+  text-align: center;
+  font-weight: bold;
+  transition: text-decoration 0.15s;
+}
+.learn-more-link:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

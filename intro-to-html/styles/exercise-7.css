@@ -1,0 +1,120 @@
+.image-1 {
+  width: 200px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.image-2 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.image-3 {
+  width: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.textbox-1 {
+  margin-top: 20px;
+  border-radius: 5px;
+  border-width: 1px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.textbox-2 {
+  font-size: 16px;
+  width: 500px;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 40px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.15);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: Arial;
+  color: rgb(100, 100, 100);
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.label {
+  font-size: 12.5px;
+  margin-bottom: 4px;
+}
+.textbox-3 {
+  font-size: 16px;
+  width: 300px;
+  border-style: solid;
+  border-color: rgb(100, 100, 100);
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 5px;
+  padding-left: 5px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+.policy-text {
+  font-size: 12.5px;
+  margin-bottom: 20px;
+}
+.agree-join {
+  background-color: rgb(19, 112, 218);
+  color: white;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 300px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+.agree-join:hover {
+  opacity: 0.9;
+}
+.agree-join:active {
+  opacity: 0.7;
+}
+
+.profile-picture {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+}
+.textbox-3 {
+  vertical-align: middle;
+  border: none;
+  font-size: 12px;
+  width: 300px;
+}
+.tweet-button {
+  background-color: rgb(19, 112, 218);
+  color: white;
+  border: none;
+  border-radius: 40px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 12px;
+  padding-left: 12px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.tweet-button:hover {
+  opacity: 0.9;
+}
+.tweet-button:active {
+  opacity: 0.7;
+}
