@@ -49,7 +49,7 @@ To run this project locally, follow these steps:
 3. **Open the project in your preferred code editor**.
 4. **Open `index.html` in your browser to view the homepage**.
 
-##Project Structure
+## Project Structure
 
 The project has the following structure:
 ```bash
@@ -78,7 +78,7 @@ youtube-clone/
 - **`assets/images/icons`**: Contains additional stylistic images, such as logos or background patterns.
 - **`assets/images/icons`**: Contains sample videos used on the video player page.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 1. **Fork the repository**.
@@ -87,7 +87,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. **Push to the branch (git push origin feature-name)**.
 5. **Open a pull request.**
 
-##License
+## License
 
 This project is open-source and available under the MIT License. See the [License](#) file for more details.
 ```bash
