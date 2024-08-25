@@ -41,3 +41,27 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/youtube-clone.git
+
+2. **Navigate to the project repository**:
+   ```bash
+   cd youtube-clone
+
+3. **Open the project in your preferred code editor**.
+4. **Open `index.html` in your browser to view the homepage**.
+
+##Project Structure
+The project has the following structure:
+```bash
+youtube-clone/
+│
+├── index.html          # The main homepage
+├── video.html          # The video player page
+├── css/
+│   └── style.css       # Main stylesheet
+└── assets/
+    ├── images/         # Images and icons used in the project
+    └── videos/         # Sample videos (if any)
+
+
+
+
