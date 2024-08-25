@@ -12,6 +12,7 @@ Welcome to the **YouTube Clone** project! This repository contains the code for 
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+- [Upcoming](#upcoming)
 
 ## Introduction
 
@@ -108,4 +109,6 @@ This project is open-source and available under the MIT License. See the [Licens
    git push origin main
 ```
 
+## Upcoming
 
+I'm currently learning more advanced JavaScript in order to add interactivity to this project in the hopes that I'm able to a host a fully functional Youtube.com that constantly refreshes and adds new and trendier videos that are befitting of the user's taste.
