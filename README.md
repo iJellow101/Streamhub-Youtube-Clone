@@ -68,7 +68,7 @@ youtube-clone/
 │   └── videos/             # Sample videos (if any)
 └── README.md               # Project README file
 
-
+```
 - **`index.html`**: Contains the structure for the YouTube homepage clone.
 - **`video.html`**: Contains the structure for the video player page.
 - **`style.css`**: The CSS file that styles the pages and ensures responsiveness
