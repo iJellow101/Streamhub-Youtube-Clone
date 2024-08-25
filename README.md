@@ -50,18 +50,33 @@ To run this project locally, follow these steps:
 4. **Open `index.html` in your browser to view the homepage**.
 
 ##Project Structure
+
 The project has the following structure:
 ```bash
 youtube-clone/
 │
-├── index.html          # The main homepage
-├── video.html          # The video player page
+├── index.html              # The main homepage
+├── video.html              # The video player page
 ├── css/
-│   └── style.css       # Main stylesheet
-└── assets/
-    ├── images/         # Images and icons used in the project
-    └── videos/         # Sample videos (if any)
+│   └── style.css           # Main stylesheet
+├── assets/
+│   ├── images/             # Folder for all images
+│   │   ├── channel-pics/   # Channel pictures
+│   │   ├── icons/          # Icons used in the UI
+│   │   ├── thumbnails/     # Video thumbnails
+│   │   └── styles/         # Other stylistic images
+│   └── videos/             # Sample videos (if any)
+└── README.md               # Project README file
 
+
+- **`index.html`**: Contains the structure for the YouTube homepage clone.
+- **`video.html`**: Contains the structure for the video player page.
+- **`style.css`**: The CSS file that styles the pages and ensures responsiveness
+- **`assets/images/channel-pics`**: Contains images representing the profile pictures for different channels.
+- **`assets/images/icons`**: Contains icons such as the search, upload, and profile icons used in the navigation bar.
+- **`assets/images/thumbnails`**: Contains the video thumbnails displayed in the video grid.
+- **`assets/images/icons`**: Contains additional stylistic images, such as logos or background patterns.
+- **`assets/images/icons`**: Contains sample videos used on the video player page.
 
 
 
