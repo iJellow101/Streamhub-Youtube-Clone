@@ -28,7 +28,7 @@ This project is a static front-end clone of YouTube, created for learning and pr
 
 ## Demo
 
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://ijellow101.github.io/Streamhub-Youtube-Clone/).
 
 ## Technologies Used
 
